@@ -6,4 +6,4 @@ In the file news-class.ipynb, I compare unsupervised vs. supervised learning met
 
 ### PART TWO
 
-In the file nnm-limits.ipyns, I explore the limitations of sklearn’s non-negative matrix factorization library by using it on movie ratings data.
+In the file nmf-limits.ipynb, I explore the limitations of sklearn’s non-negative matrix factorization library by using it on movie ratings data.
